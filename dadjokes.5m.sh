@@ -5,7 +5,7 @@
 # <bitbar.author>Simon Peier</bitbar.author>
 # <bitbar.author.github>simonpeier</bitbar.author.github>
 # <bitbar.desc>The plugin tells you random dad jokes</bitbar.desc>
-# <bitbar.image></bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/simonpeier/bitbar-dadjokes-plugin/master/screenshot.png</bitbar.image>
 # <bitbar.dependencies></bitbar.dependencies>
 # <bitbar.abouturl></bitbar.abouturl>
 
